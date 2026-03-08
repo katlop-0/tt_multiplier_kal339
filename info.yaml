@@ -1,7 +1,7 @@
 # Tiny Tapeout project information
 project:
   title:        "tt_multiplier_kal339"      # Project title
-  author:       "katlop-0"      # Your name
+  author:       "Katrina Lopez"      # Your name
   discord:      ""      # Your discord username, for communication and automatically assigning you a Tapeout role (optional)
   description:  "digital multiplier"      # One line description of what your project does
   language:     "Verilog" # other examples include SystemVerilog, Amaranth, VHDL, etc
