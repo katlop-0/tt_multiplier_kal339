@@ -9,12 +9,12 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+The project consists of a multiplier taking 4 bit inputs A and B to produce the 8 bit output P.
 
 ## How to test
 
-Explain how to use your project
+There is a python script that is used to interface the .v files in the testbench and test their functionality.
 
 ## External hardware
 
-List external hardware used in your project (e.g. PMOD, LED display, etc), if any
+No external hardware used.
